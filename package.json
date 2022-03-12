@@ -47,6 +47,7 @@
     "fs-readdir-recursive": "^1.1.0",
     "get-all-files": "^2.0.0",
     "glob": "^7.1.6",
+    "jest": "^27.5.1",
     "klaw-sync": "^6.0.0",
     "mock-fs": "^4.11.0",
     "picomatch": "^2.2.2",
